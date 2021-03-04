@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on A Pokédex project  
   
 
-- 🌱 I’m currently learning Typescript & next.js  
+- 🌱 I’m currently learning Typescript ,next.js & react.js
   
 
 <br/>  
