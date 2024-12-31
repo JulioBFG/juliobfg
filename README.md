@@ -77,12 +77,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=juliocesaryt&cover_image=true&theme=default" /></div>  
 
 <br/>  
