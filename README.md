@@ -6,10 +6,10 @@
 ### <div align="center">I'm Julio, a full-time front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on A Pokédex project  
+- 🔭 I’m currently working on A Ai Prompt project  
   
 
-- 🌱 I’m currently learning Typescript ,next.js & react.js
+- 🌱 I’m currently learning Next.js, Gemini APIs
   
 
 <br/>  
